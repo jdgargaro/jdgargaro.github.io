@@ -1,0 +1,25 @@
+body {
+	color: 385938;
+	background-color: (241,219,139);
+	font-family: Helvetica;
+	text-align: center;
+
+}
+
+h1 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 150px;
+}
