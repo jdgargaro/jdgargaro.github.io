@@ -1,0 +1,109 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+	color: 385938;
+	background-color: (241,219,139);
+	font-family: "Roboto Slab", courier;
+	text-align: center;
+
+}
+
+header {
+	background-color: FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right {
+	background-color: pink;
+	border: 1px solid black;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+div{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+	margin: 0 auto;
+}
+h1 {
+	font-weight: bold;
+	font-family: "Roboto", Helvetica;
+	font-size: 60px;
+	line-height: 1em;
+	text-align: center;
+
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 28px;
+	line-height: .5em;
+	text-align: center;
+}
+
+hr {
+	width: 150px;
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	font-size: 28px;
+	font-family: "Roboto", Helvetica;
+}
+p {
+	text-align: center;
+}
+
